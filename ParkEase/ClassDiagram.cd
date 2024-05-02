@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ParkEase.About" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8wAAABAAACAAABAAAACAAAACAAAAAAAAIAAAAABAAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.Admin" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oQQhAgQAACAFAFAAFBCAgAACAQhAAAQAAIAAASAlAIA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.AdminUsers" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgCAgACDIYABwAEoCBBGBiRIAAAgAACgACAQBiAA0=</HashCode>
+      <FileName>AdminUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.Dashboard" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gxSAEgAAwCAAEDJABAGJAEACKAgIYAQGQMAMAQIFAAA=</HashCode>
+      <FileName>Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.Home" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xQgABIAADAEABwAAACAJAEGAI0QgAEAAACCgQEGATA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.Login" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>M4AgMFSEEDAEAD2QAgCFJOVSBIqXZFwmAcwWAQREAA8=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.mdiProperties" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAACAAAACIAACAAAAAAAAgAABRQAAACQAAAA=</HashCode>
+      <FileName>mdiProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.OnlinePayment" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABACQAAA0gAAiCABACAKAAwAQAgIECASAQAAA=</HashCode>
+      <FileName>OnlinePayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.Parking" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//T/vZAHKCSIKB0CtIS1xtP/Sv8r4PkfhPIegfj/b3k=</HashCode>
+      <FileName>Parking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.ParkingStatus" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABhSQAChwAAECADAACiKAAAEAOAAACASBAAAE=</HashCode>
+      <FileName>ParkingStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkEase.AdminHome" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KNS3vBIAADAAABwAAACA5NM+AJ0Q4GkfAACCgbEPBTA=</HashCode>
+      <FileName>AdminHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
